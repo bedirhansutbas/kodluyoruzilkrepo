@@ -26,3 +26,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+---
+![Screenshot](https://www.upload.ee/image/14470441/kod.png)
